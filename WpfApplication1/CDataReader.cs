@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Data;
 //using Microsoft.Office.Interop.Excel;
-using Excel= Microsoft.Office.Interop.Excel;
+using Excel=  Microsoft.Office.Interop.Excel;
 
 namespace WpfApplication1
 {
@@ -40,7 +40,7 @@ namespace WpfApplication1
        //检修周期
         String m_CheckPeroid;
        //计划时间
-        Int32[] m_DevCount=new Int32[12];
+        //Int32[] m_DevCount=new Int32[12];
        //工作地点
         String m_WorkSite;
        //
